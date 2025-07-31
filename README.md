@@ -45,8 +45,9 @@
 <h3 align="left">🔥 Meus Status :</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafaelHuber&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelhuber&show_icons=true&theme=dark" alt="GitHub stats" />
 </p>
+
 
 ###
 
