@@ -45,7 +45,7 @@
 <h3 align="left">🔥 Meus Status :</h3>
 
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelhuber&theme=aura)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelhuber&theme=react)
 </div>
 
 ###
