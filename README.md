@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  Sobre mim </h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">🔥 Meus Status :</h3>
+<h3 align="left"> Meus Status :</h3>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelhuber&theme=react" />
