@@ -45,6 +45,11 @@
 <h3 align="left">🔥 Meus Status :</h3>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelhuber&theme=dark" alt="GitHub streak" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=rafaelhuber&theme=dark" alt="GitHub streak stats" />
 </p>
 
