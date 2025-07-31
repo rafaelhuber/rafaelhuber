@@ -42,6 +42,14 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">"Sou desenvolvedor apaixonado por tecnologia e inovação, sempre buscando aprender e aplicar novas habilidades. Estou criando experiência em react e node.js. Gosto de criar projetos que unem funcionalidade e design eficiente. Aqui compartilho meus códigos e aprendizados para contribuir com a comunidade.</p>
+
+###
+
 <h3 align="left">🔥 Meus Status :</h3>
 
 <p align="center">
