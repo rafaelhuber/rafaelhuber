@@ -42,8 +42,10 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhuber&layout=compact&langs_count=7&theme=dracula)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhuber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 ###
