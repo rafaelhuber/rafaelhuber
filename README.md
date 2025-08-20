@@ -59,7 +59,7 @@
 
 ###
 
-<p align="left">"Sou desenvolvedor apaixonado por tecnologia e inovação, sempre buscando aprender e aplicar novas habilidades. Estou criando experiência em react e node.js. Gosto de criar projetos que unem funcionalidade e design eficiente. Aqui compartilho meus códigos e aprendizados para contribuir com a comunidade.</p>
+<p align="left">Sou desenvolvedor apaixonado por tecnologia e inovação, sempre buscando aprender e aplicar novas habilidades. Estou criando experiência em react e node.js. Gosto de criar projetos que unem funcionalidade e design eficiente. Aqui compartilho meus códigos e aprendizados para contribuir com a comunidade.</p>
 
 ###
 
